@@ -40,7 +40,7 @@ class DAppsMetadataController {
         }
 
         if (dappMetadata.status == DAPP_METADATA_STATUSES.NEW) {
-            const approvalEmail = new ApprovalEmail(dappMetadata.details);
+            const approvalEmail = new ApprovalEmail(dappMetadata);
             approvalEmail.send();
         }
 
