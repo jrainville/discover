@@ -1,7 +1,0 @@
-{
-  "UPLOAD": "http://dev.dap.ps:8081/metadata",
-  "UPDATE": "http://dev.dap.ps:8081/metadata/update",
-  "APPROVE": "http://dev.dap.ps:8081/metadata/approve/email",
-  "RETRIEVE_METADATA": "http://dev.dap.ps:8081/metadata",
-  "RETRIEVE_ALL_METADATA": "http://dev.dap.ps:8081/metadata/all"
-}

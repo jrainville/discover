@@ -1,6 +1,6 @@
 const DAppMetadata = require('./../models/dapps-metadata-model');
 
-const DAppImageService = require('./../services/dapp-image-service');
+const DAppImageService = require('./dapp-image-service');
 
 const validator = require('validator');
 const web3Utils = require('web3-utils');
