@@ -52,4 +52,4 @@ To run the app locally:
 
 **Ropsten contracts:**
 SNT - 0x25B1bD06fBfC2CbDbFc174e10f1B78b1c91cc77B
-Discover - 0xd34aae5b764d720ba5b438b29d60e5e9601cf3a9
+Discover - 0x17e7a7330d23fc6a2ab8578a627408f815396662
