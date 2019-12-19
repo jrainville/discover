@@ -13,7 +13,7 @@
     "connected-react-router": "^6.3.2",
     "debounce": "^1.2.0",
     "decimal.js": "^10.0.2",
-    "embark": "4.0.2",
+    "embark": "5.0.0-alpha.7",
     "embark-etherscan-verifier": "^4.0.0",
     "embark-solium": "0.0.1",
     "history": "^4.7.2",
